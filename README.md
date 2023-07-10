@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Princo</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune panama &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile App developer from panama &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -22,7 +22,7 @@ Princo</a></h1>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me *cesarmoran170@gmail.com**
+- 📫 How to reach me **cesarmoran170@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
