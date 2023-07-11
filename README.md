@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Princo</a></h1>
-<h3 align="center">A passionate Mobile App developer from panama &#507;&#507</h3>
+<h3 align="center">A passionate Mobile App developer from panama &#591;&#591</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -62,6 +62,6 @@ Princo</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Cesar moran](https://github.com/100rabhcsmc)
 
 Last Edited on: 08/08/2022# Princo07
