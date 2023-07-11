@@ -12,15 +12,15 @@ Princo</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Mobile App(desbloqueo de la misma )
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning python && c++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on [Instagram y Facebook ](Instagram_y_facebook )
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **unloock tool & chimera tool**
 
 - 📫 How to reach me **cesarmoran170@gmail.com**
 
